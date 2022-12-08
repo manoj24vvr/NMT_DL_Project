@@ -5,13 +5,13 @@ The ability to communicate with one another is a fundamental part of our daily l
 7,000 different languages worldwide. As our world becomes increasingly connected, language
 translation provides a critical cultural and economic bridge between people from different countries
 and ethnic groups. Some of the more obvious use-cases include:
-* #### Business: international trade, investment, contracts, finance
-* #### commerce: travel, purchase of foreign goods and services, customer support
-* #### media: accessing information via search, sharing information via social networks, localization of
+* **Business:** international trade, investment, contracts, finance
+* **Commerce:** travel, purchase of foreign goods and services, customer support
+* **Media:** accessing information via search, sharing information via social networks, localization of
 content and advertising
-* #### education: sharing of ideas, collaboration, translation of research papers
-* #### government: foreign relations, negotiation
-* #### To meet these needs, technology companies are investing heavily in machine translation. This
+* **Education:** sharing of ideas, collaboration, translation of research papers
+* **Government:** foreign relations, negotiation
+To meet these needs, technology companies are investing heavily in machine translation. This
 investment and recent advancements in deep learning have yielded major improvements in
 translation quality.
 
