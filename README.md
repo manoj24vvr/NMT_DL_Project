@@ -11,6 +11,7 @@ and ethnic groups. Some of the more obvious use-cases include:
 content and advertising
 * **Education:** sharing of ideas, collaboration, translation of research papers
 * **Government:** foreign relations, negotiation
+
 To meet these needs, technology companies are investing heavily in machine translation. This
 investment and recent advancements in deep learning have yielded major improvements in
 translation quality.
