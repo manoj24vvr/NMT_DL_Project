@@ -41,7 +41,7 @@ Each line in the dataset is a tab-delimited text consisting of an English text s
 The text data available at the above mentioned website is present in the raw form( consists of
 punctuations, symbols, letters in both lower & upper case). So, pre-processing has been performed on the downloaded dataset and has been made ready! to be used for implementing various Deep Learning models and architectures.
 
-> https://colab.research.google.com/drive/1fAlkxthovv399UqXnTu3l9AbupVFb_IH?usp=sharing
+> [Pre_processing_&_analysis_NMT.ipynb](https://github.com/manoj24vvr/Neural-Machine-Translation/blob/main/Pre_processing_%26_analysis_NMT.ipynb)
 
 ## Preprocessing Pipeline :
 Below are a few pre-processing steps implemented on the downloaded dataset:
