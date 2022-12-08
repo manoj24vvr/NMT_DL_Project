@@ -1,4 +1,6 @@
-# NMT_DL_Project
+<h1 align="center"> NMT_DL_Project </h1> 
+
+![This is an image](https://www.intechopen.com/media/chapter/68953/media/F1.png)
 
 ## Problem Statement :
 The ability to communicate with one another is a fundamental part of our daily life. There are nearly
